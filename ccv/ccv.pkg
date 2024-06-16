@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ccv': Causal Cluster Variance (OLS regression with Causal Cluster Variance) Use ccv With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ccv.ado
+f ccv.sthlp
