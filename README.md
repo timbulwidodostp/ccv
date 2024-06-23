@@ -1,6 +1,8 @@
 # ccv
 Causal Cluster Variance (OLS regression with Causal Cluster Variance) Use ccv With STATA 18
 
+https://www.youtube.com/watch?v=bny-RYWnzhU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
